@@ -6,4 +6,10 @@ Here I have made a Calculator app using Django in python. I think this is one of
 
 ## Some snaps of the outcome
 
-![alt text](https://github.com/Kabilan-n/Flowers-Img-Classification-TMLC-/blob/main/streamlit/streamlit.png?raw=true)
+### Calculator page
+
+![alt text](https://github.com/Kabilan-n/Django-Calculator/blob/main/preview/calculator.png?raw=true)
+
+### Instructon page
+
+![alt text](https://github.com/Kabilan-n/Django-Calculator/blob/main/preview/instructions.png?raw=true)
